@@ -31,6 +31,7 @@ appear on the list.
 
 
 ## Make
-Implement a brand new shape of your choice. It should store the major data for that shape and make
-setter and getter method available along with a constructor that is appropriate.
-Ensure you instantiate the class in the driver's `main()` method and print out the data attributes.
+Implement a brand new shape of your choice. 
+- It should store the major data for that shape and make setter and getter methods available along with a constructor that is appropriate.
+- Instantiate the class in the driver's `main()` method and print out the data attributes.
+- Use the UML template given by your instructor to create a UML diagram of your class. Save it in the `resources` folder.
